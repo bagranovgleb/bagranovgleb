@@ -1,30 +1,16 @@
-<!--
-**bagranovgleb/bagranovgleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Gleb Bagranov
 
-🎓 **Data Analysis Student (Messina University, Italy)** — graduating April 2027  
-💡 Passionate about **data analytics, visualization, smart systems**  
-📊 Have an experince **SQL, MongoDB, Neo4j, Docker, and Python** to build integrated data services.  
-🌍 Looking for **Data Analyst / Data Science internships (EU, 2026–2027)**  
+🎓 **Data Analysis student — University of Messina, Italy** · graduating April 2027  
+📊 I build integrated data services with **SQL, MongoDB, Neo4j, Docker, and Python**  
+💡 Interested in data analytics, visualization, and smart systems  
+🌍 Open to **Data Analyst / Data Science internships across the EU, 2026–2027**
 
 ---
 
 ### 🧠 Tech Stack
 | Category | Tools |
 |-----------|-------|
-| **Languages** | Python · SQL · C · C++ · Java |
+| **Languages** | Python · SQL · Java · C · C++ · PHP |
 | **Databases** | MySQL · MongoDB · Neo4j |
 | **Tools & Platforms** | Docker · Git · VS Code |
 | **Data Skills** | EDA · SQL Queries · ETL · Data Modeling |
@@ -32,13 +18,21 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 Featured Projects
-🔹 **[Smart Traffic Light System (IoT + Databases)](https://github.com/bagranovgleb/Trafficlight-System-IoT-Simulation)**  
-*Integrated Neo4j, MongoDB, and MySQL into a real-time traffic management system via Docker.*
 
-🔹 **[SQL Case Study – Jail Database Analytics](https://github.com/bagranovgleb/Jail-Website-SQL_ONLY-NOWEB)**  
-*Designed and queried relational models for prisoner management and reporting.*
+🔹 **[Smart Traffic Light System — IoT + Multi-Database](https://github.com/bagranovgleb/Trafficlight-System-IoT-Simulation)** · `Python` `MySQL` `MongoDB` `Neo4j` `Docker`  
+Real-time traffic management simulation combining three database paradigms behind one service layer — relational records, document-based sensor streams, and a graph model of the road network. Deployed as containerized services.
 
-💡 Currently planning an Object-Oriented Programming project demonstrating all four OOP pillars (Encapsulation, Inheritance, Polymorphism, Abstraction).
+🔹 **[Secure Edge-to-Cloud System](https://github.com/bagranovgleb/Secure-Edge-to-Cloud-system-with-RSA-and-AES)** · `Python` `RSA` `AES` `Docker`  
+MPU-based edge-to-cloud storage pipeline using hybrid encryption: AES for payloads, RSA for key exchange, across containerized edge and cloud nodes.
+
+🔹 **[Secure Cloud Storage Simulation](https://github.com/bagranovgleb/Secure_Cloud_Storage_Sim)** · `PHP` `MySQL`  
+File storage platform with role-based access control, automatic rate limiting, and real-time security audit logging.
+
+🔹 **[Jail Database — SQL Case Study](https://github.com/bagranovgleb/Jail-Website--SQL_ONLY-NOWEB)** · `PHP` `SQL`  
+Normalized relational schema for inmate management, with the analytical query set for operational reporting.
+
+🔹 **[Inscryption-Inspired Card Battler](https://github.com/bagranovgleb/OOP_Java_Project_Inscription)** · `Java` `JavaFX`  
+Turn-based card game demonstrating all four OOP pillars — encapsulation, inheritance, polymorphism, abstraction — with an event system, card sigil mechanics, and a unit test suite.
 
 ---
 
@@ -63,5 +57,4 @@ Here are some ideas to get you started:
 ---
 
 ### ⚡ Fun Fact
-I love analyzing real-world systems — from Formula 1 strategy and gaming economics to complex online data patterns —
-and turning them into structured, data-driven stories.
+I analyze real-world systems for fun — Formula 1 race strategy, gaming economies, online data patterns — and turn them into structured, data-driven stories.
