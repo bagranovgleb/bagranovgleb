@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Gleb Bagranov
 
-🎓 **Data Analysis Student (Messina University, Italy)** — graduating October 2026  
+🎓 **Data Analysis Student (Messina University, Italy)** — graduating April 2027  
 💡 Passionate about **data analytics, visualization, smart systems**  
 📊 Have an experince **SQL, MongoDB, Neo4j, Docker, and Python** to build integrated data services.  
-🌍 Looking for **Data Analyst / Data Science internships (EU, 2025–2026)**  
+🌍 Looking for **Data Analyst / Data Science internships (EU, 2026–2027)**  
 
 ---
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](Empty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleb-bagranov-4801b0366/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/bagranovgleb)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:glebbagranov@gmail.com)
 
